@@ -1,10 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:test_application/bloc.dart';
-import 'package:test_application/news/news_layout.dart';
+import 'package:test_application/shop/on_boarding.dart';
 
-void main()
-{
+void main() {
   Bloc.observer = MyBlocObserver();
   runApp(const MyApp());
 }
@@ -45,7 +44,7 @@ class MyApp extends StatelessWidget {
         ),
         fontFamily: 'Agbalumo',
       ),
-      home: const NewsLayout(),
+      home: const OnBoardingScreen(),
     );
   }
 }

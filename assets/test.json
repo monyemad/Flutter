@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 65,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Charlotte Observer"
+      },
+      "author": "Charlotte Observer",
+      "title": "Cedar Fair, Six Flags merging with new HQ coming to Charlotte - Charlotte Observer",
+      "description": null,
+      "url": "https://www.charlotteobserver.com/news/business/article281337053.html",
+      "urlToImage": null,
+      "publishedAt": "2023-11-02T18:26:26Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investor's Business Daily"
+      },
+      "author": "Investor's Business Daily",
+      "title": "Moderna Tumbles 9% As Light Guidance Overshadows Sales Beat - Investor's Business Daily",
+      "description": "The company issued below-consensus sales views for 2023 and 2024.",
+      "url": "https://www.investors.com/news/technology/moderna-stock-will-light-guidance-rattle-shares-despite-a-massive-sales-beat/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2020/11/Stock-moderna-02-shutt.jpg",
+      "publishedAt": "2023-11-02T17:47:05Z",
+      "content": "Moderna (MRNA) stock tumbled Thursday after the Covid vaccine maker handily beat third-quarter sales forecasts, but reported bigger-than-expected losses and issued light guidance for this year and ne… [+5289 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Megan Henney",
+      "title": "Mortgage rates continue to hover near highest level since 2000 - Fox Business",
+      "description": "Freddie Mac said on Thursday that mortgage rates paused their multi-week climb last week, but continued to hover near the highest level in two decades.",
+      "url": "https://www.foxbusiness.com/economy/mortgage-rates-continue-hover-highest-level-2000",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/10/0/0/housing-16.jpg?ve=1&tl=1",
+      "publishedAt": "2023-11-02T17:37:30Z",
+      "content": "Mortgage rates stopped their unrelenting upward climb last week, but continued to hover near the highest level in more than two decades.\r\nMortgage buyer Freddie Mac said Thursday that the average rat… [+2071 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Makena Kelly",
+      "title": "Amazon's secret pricing scheme made it an extra $1 billion, FTC says - The Verge",
+      "description": "Amazon’s secret pricing algorithm, codenamed “Project Nessie,” may have generated the company more than $1 billion in extra profits, according to new details released from the Federal Trade Commission’s antitrust case.",
+      "url": "https://www.theverge.com/2023/11/2/23943724/amazon-project-nessie-algorithm-ftc-antitrust-case",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/YsSwJjeePniOk01QDHeAsuHaotg=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23935558/acastro_STK103__01.jpg",
+      "publishedAt": "2023-11-02T17:30:46Z",
+      "content": "Amazons secret pricing scheme made it an extra $1 billion, FTC says\r\nAmazons secret pricing scheme made it an extra $1 billion, FTC says\r\n / The Project Nessie algorithm tested Amazon price hikes aga… [+2826 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Hakyung Kim",
+      "title": "Stocks making biggest moves midday: Starbucks, Roku, Eli Lilly, Affirm - CNBC",
+      "description": "These are the stocks posting the largest moves in midday trading.",
+      "url": "https://www.cnbc.com/2023/11/02/stocks-making-the-biggest-moves-midday-starbucks-roku-eli-lilly-affirm-and-more.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107326987-1698852161966-gettyimages-1680666105-STARBUCKS_OPERATIONS.jpeg?v=1698949030&w=1920&h=1080",
+      "publishedAt": "2023-11-02T17:24:21Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "MacKenzie Sigalos, Dawn Giel",
+      "title": "Free pizza and Ubers: Judge will hold jurors past 8 p.m. as Sam Bankman-Fried trial enters final stretch - CNBC",
+      "description": "The government will pay for pizza and Uber rides home for the 12 jurors who will decide the fate of FTX founder Sam Bankman-Fried",
+      "url": "https://www.cnbc.com/2023/11/02/free-pizza-and-ubers-judge-to-stay-late-in-sam-bankman-fried-trial.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107277209-16903927302023-07-26t172101z_407298745_rc25b2a4v104_rtrmadp_0_usa-bankmanfried.jpeg?v=1690392829&w=1920&h=1080",
+      "publishedAt": "2023-11-02T17:08:04Z",
+      "content": "The government is paying for pizza and Uber rides home for the 12 jurors in lower Manhattan who will decide the fate of Sam Bankman-Fried.\r\nIn court on Thursday, U.S. District Judge Lewis Kaplan told… [+3426 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Bethan Moorcraft",
+      "title": "'Tired of being played for suckers': President Biden just proposed a new retirement rule that could help Americans save 'tens of thousands of dollars' over time — here's how it works - Yahoo Finance",
+      "description": "This scam could be eating as much as 20% of your retirement savings.",
+      "url": "https://finance.yahoo.com/news/tired-being-played-suckers-president-170000473.html",
+      "urlToImage": "https://media.zenfs.com/en/moneywise_327/f47fe19545376a04e361d0ec1d65570a",
+      "publishedAt": "2023-11-02T17:00:00Z",
+      "content": "Tired of being played for suckers: President Biden just proposed a new retirement rule that could help Americans save 'tens of thousands of dollars' over time here's how it works\r\nPresident Joe Biden… [+5530 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Dimon: The excess savings amassed by low-income consumers are now gone - Yahoo Finance",
+      "description": null,
+      "url": "https://finance.yahoo.com/news/dimon-the-excess-savings-amassed-by-low-income-consumers-are-now-gone-164136390.html",
+      "urlToImage": null,
+      "publishedAt": "2023-11-02T16:41:36Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Cheyenne DeVon",
+      "title": "Americans' average credit score at every age—see how you compare - CNBC",
+      "description": "In general, Americans appear to be managing their credit well, according to Experian's latest data. Here's the average credit score by age.",
+      "url": "https://www.cnbc.com/2023/11/02/average-credit-score-by-age-in-the-us.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107327357-1698875520954-gettyimages-1256724200-img_5126copy.jpeg?v=1698875527&w=1920&h=1080",
+      "publishedAt": "2023-11-02T16:39:20Z",
+      "content": "From the youngest Americans to the oldest, most seem to be managing their credit pretty well.\r\nIn the U.S., the average credit score is 716, per Experian's latest data from the second quarter of 2023… [+3085 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Michael Sheetz",
+      "title": "Elon Musk says SpaceX's Starlink business ‘achieved breakeven cash flow’ - CNBC",
+      "description": "SpaceX CEO Elon Musk announced Thursday that the company's Starlink satellite internet business \"achieved breakeven cash flow.\"",
+      "url": "https://www.cnbc.com/2023/11/02/elon-musk-spacex-starlink-breakeven-cash-flow.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107200829-1677589923421-IMG_0131.jpg?v=1698949795&w=1920&h=1080",
+      "publishedAt": "2023-11-02T16:36:16Z",
+      "content": "SpaceX CEO Elon Musk announced Thursday that the company's Starlink satellite internet business \"achieved breakeven cash flow.\"\r\n\"Excellent work by a great team,\" Musk said in a post on his social me… [+1767 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Melissa Repko",
+      "title": "Deal-hungry shoppers will squeeze holiday sales growth to pre-pandemic levels, retail group says - CNBC",
+      "description": "NRF expects higher wages and job security to give shoppers confidence to spring for gifts and decorations. But he acknowledged challenges.",
+      "url": "https://www.cnbc.com/2023/11/02/nrf-2023-holiday-sales-forecast.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107170267-1671720049910-gettyimages-1245782688-US_RETAIL_SALES.jpeg?v=1697646820&w=1920&h=1080",
+      "publishedAt": "2023-11-02T15:47:05Z",
+      "content": "Holiday shoppers are expected to spend more this year, but their eagerness for value and hunger for deals is likely to push that growth back down to pre-pandemic levels, according to the National Ret… [+4342 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Roku stock soars on strong guidance as company sees signs of ad rebound - Yahoo Finance",
+      "description": null,
+      "url": "https://finance.yahoo.com/news/roku-stock-soars-on-strong-guidance-as-company-sees-signs-of-ad-rebound-154557115.html",
+      "urlToImage": null,
+      "publishedAt": "2023-11-02T15:45:57Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tipranks.com"
+      },
+      "author": "TipRanks",
+      "title": "Apple Stock: All Eyes on Earnings — Here's What J.P. Morgan Expects - TipRanks.com - TipRanks",
+      "description": null,
+      "url": "https://www.tipranks.com/news/article/apple-stock-all-eyes-on-earnings-heres-what-j-p-morgan-expects",
+      "urlToImage": null,
+      "publishedAt": "2023-11-02T15:28:10Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Toyota issues recall for 1.8 million RAV4 vehicles due to fire risk - Good Morning America",
+      "description": "The car manufacturer is recalling certain models from 2013 to 2018 due to an issue with the 12-volt battery.SUBSCRIBE: https://bit.ly/2Zq0dU5 SIGN UP to get ...",
+      "url": "https://www.youtube.com/watch?v=PIcsMq5l7ys",
+      "urlToImage": "https://i.ytimg.com/vi/PIcsMq5l7ys/maxresdefault.jpg",
+      "publishedAt": "2023-11-02T15:00:59Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tom Warren",
+      "title": "Microsoft is overhauling its software security after major Azure cloud attacks - The Verge",
+      "description": "Microsoft is making big changes to its cybersecurity approach. It comes after major cloud attacks in recent years and will mean an overhaul to how software is built inside Microsoft.",
+      "url": "https://www.theverge.com/2023/11/2/23943178/microsoft-security-secure-future-initiative-cybersecurity",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/5X0IGMLrTUsRnyo97W-GRqDZBiA=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24347781/STK095_Microsoft_03.jpg",
+      "publishedAt": "2023-11-02T15:00:00Z",
+      "content": "Microsoft is overhauling its software security after major Azure cloud attacks\r\nMicrosoft is overhauling its software security after major Azure cloud attacks\r\n / Microsoft is getting ready to use AI… [+7498 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "GuruFocus Research",
+      "title": "Nikola Corp (NKLA) Reports Q3 2023 Results: Net Loss Widens, Unrestricted Cash Triples - Yahoo Finance",
+      "description": "Despite a voluntary recall, Nikola Corp (NKLA) sees strong demand for its zero-emissions trucks and raises $250M in Q3",
+      "url": "https://finance.yahoo.com/news/nikola-corp-nkla-reports-q3-145111731.html",
+      "urlToImage": "https://media.zenfs.com/en/us.finance.gurufocus/6ece8ec03b3e6728226d1f991176eda4",
+      "publishedAt": "2023-11-02T14:51:11Z",
+      "content": "<ul><li>Nikola Corp (NASDAQ:NKLA) reported a net loss of $425.7M in Q3 2023, compared to a net loss of $236.2M in Q3 2022.\r\n</li><li>The company raised $250M during Q3, increasing unrestricted cash b… [+2799 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investor's Business Daily"
+      },
+      "author": "Investor's Business Daily",
+      "title": "Disney Stock Rises On Plan To Buy Remaining Hulu Stake For $8.61 Billion. ESPN BET To Go Live - Investor's Business Daily",
+      "description": "Disney stock climbs Thursday. The Dow giant plans to buy the remaining Hulu stake for $8.61 billion, reveals date for ESPN Bet sportsbook launch.",
+      "url": "https://www.investors.com/news/disney-stock-rises-on-plan-to-buy-remaining-hulu-stake-for-8-61-billion-espn-bet-to-go-live/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2017/12/stock-disney-05-shutter.jpg",
+      "publishedAt": "2023-11-02T14:48:00Z",
+      "content": "Dow Jones entertainment giant Disney (DIS) announced late Wednesday plans to purchase the remaining outstanding stake in the Hulu streaming service held by NBC Universal. Disney also revealed the off… [+3266 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Karen Friar",
+      "title": "Stock market news today: Stocks rise as investors bet on end to Fed hikes - Yahoo Finance",
+      "description": "Investors are betting the Fed is done with its rate-hiking campaign, taking heart from Chair Jerome Powell's comments.",
+      "url": "https://finance.yahoo.com/news/stock-market-news-today-stocks-rally-dow-rises-500-points-as-investors-bet-on-end-to-fed-hikes-164433133.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/8eG9cpd_c.d0ktPIlUVlIQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NDk-/https://s.yimg.com/os/creatr-uploaded-images/2023-11/f80d2690-7975-11ee-aeff-2d2d3e799be6",
+      "publishedAt": "2023-11-02T14:44:36Z",
+      "content": "Roku (ROKU) shares soared more than 25% in midday trading on Thursday after the company reported strong fourth quarter guidance and pointed to further signs of recovery in its ad revenue.\r\nRoku guide… [+1641 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Daniella Genovese",
+      "title": "Eye drop products: What consumers should know about the FDA's warning - Fox Business",
+      "description": "Despite recent warnings from the FDA, experts say consumers shouldn't avoid all eye drop products. The agency says some could cause eye infections and potentially lead to vision loss.",
+      "url": "https://www.foxbusiness.com/lifestyle/eye-drop-products-what-consumers-should-know-about-fda-warning",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/08/0/0/Eye-dropper-drops.jpg?ve=1&tl=1",
+      "publishedAt": "2023-11-02T14:42:46Z",
+      "content": "The Food and Drug Administration (FDA) is alerting consumers about more than two dozen eye drop products that the agency says could cause eye infections and potentially lead to vision loss.\r\nDespite … [+3236 chars]"
+    }
+  ]
+}
