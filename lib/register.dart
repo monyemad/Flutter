@@ -6,6 +6,7 @@ class RegisterScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      appBar: AppBar(),
       body: Center(
         child: SingleChildScrollView(
           child: Padding(
@@ -78,7 +79,6 @@ class RegisterScreen extends StatelessWidget {
                     suffixIcon: Icon(Icons.visibility_rounded),
                     hintText: "Confirm password",
                     hintStyle: TextStyle(fontSize: 22, color: Colors.black26),
-                    border: InputBorder.none,
                   ),
                   validator: (value) {
                     if (value!.isEmpty) {

@@ -1,9 +1,14 @@
 import 'package:flutter/material.dart';
 import 'package:test_application/register.dart';
 
-class Login extends StatelessWidget {
-  Login({super.key});
+class Login extends StatefulWidget {
+  const Login({super.key});
 
+  @override
+  State<Login> createState() => _LoginState();
+}
+
+class _LoginState extends State<Login> {
   TextEditingController email = TextEditingController();
 
   TextEditingController password = TextEditingController();
@@ -13,6 +18,7 @@ class Login extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      appBar: AppBar(),
       body: Center(
         child: SingleChildScrollView(
           child: Padding(
@@ -52,7 +58,6 @@ class Login extends StatelessWidget {
                     suffixIcon: Icon(Icons.visibility_rounded),
                     hintText: "Password",
                     hintStyle: TextStyle(fontSize: 22, color: Colors.black26),
-                    border: InputBorder.none,
                   ),
                   validator: (value) {
                     if (value!.isEmpty) {
