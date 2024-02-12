@@ -47,10 +47,14 @@ class _BmiScreenState extends State<BmiScreen> {
                         child: const Column(
                           mainAxisAlignment: MainAxisAlignment.center,
                           children: [
-                            Icon(
-                              Icons.male_rounded,
-                              color: Colors.blue,
-                              size: 90,
+                            // Icon(
+                            //   Icons.male_rounded,
+                            //   color: Colors.blue,
+                            //   size: 90,
+                            // ),
+                            Image(image: AssetImage("assets/images/output (DNA).gif"),
+                              height: 100,
+                              width: 100,
                             ),
                             Text(
                               'MALE',

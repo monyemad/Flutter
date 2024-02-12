@@ -139,11 +139,11 @@ class _OnBoardingScreenState extends State<OnBoardingScreen> {
         children: [
           Expanded(
             child: Image(
-              image: NetworkImage('${model.image}'),
+              image: NetworkImage(model.image),
             ),
           ),
           Text(
-            '${model.title}',
+            model.title,
             style: const TextStyle(
               fontSize: 25,
             ),
@@ -152,7 +152,7 @@ class _OnBoardingScreenState extends State<OnBoardingScreen> {
             height: 15,
           ),
           Text(
-            '${model.body}',
+            model.body,
             style: const TextStyle(
               fontSize: 15,
             ),

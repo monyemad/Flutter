@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "udemy"
 include(":app")
+include(":app")

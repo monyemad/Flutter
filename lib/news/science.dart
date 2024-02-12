@@ -5,9 +5,9 @@ class ScienceScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
+    return const Scaffold(
       drawerEnableOpenDragGesture: false,
-      body: const Center(
+      body: Center(
         child: Text(
           'Science Screen',
           style: TextStyle(

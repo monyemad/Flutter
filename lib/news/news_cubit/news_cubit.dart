@@ -37,12 +37,12 @@ class NewsCubit extends Cubit<NewsState> {
 
   void getBusiness() {
     emit(NewsGetBusinessLoadingStates());
-    DioHelper.getData(url: 'v2/everything', queries: {
+    DioHelper.getData(url: 'v2/everything', query: {
       'q': 'tesla',
       'from': '2023-10-01',
       'sortBy': 'publishedAt',
       'apiKey': 'f23e15d2ce0a4b79a110011cc4ea4037',
-    }).then((value) {
+    },).then((value) {
       business = value.data['articles'];
       print(business[0]['title']);
 

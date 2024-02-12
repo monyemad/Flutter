@@ -2,4 +2,6 @@
 <resources>
 
     <style name="Theme.Udemy" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.Test_Project" parent="android:Theme.Material.Light.NoActionBar" />
 </resources>
